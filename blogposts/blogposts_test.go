@@ -1,4 +1,4 @@
-package blogposts
+package blogposts_test
 
 import (
 	"testing"
