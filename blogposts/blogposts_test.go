@@ -1,10 +1,10 @@
-package blogposts_test
+package blogposts
 
 import (
 	"testing"
 	"testing/fstest"
 
-	blogposts "github.com/mike-kirpa/go-with-tests/blogposts"
+	"github.com/mike-kirpa/go-with-tests/blogposts"
 )
 
 func TestNewBlogPosts(t *testing.T) {
